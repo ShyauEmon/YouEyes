@@ -9,7 +9,7 @@ namespace WebApplication1.Services
     public class MailService
     {
         private string gmail_account = "smit12glasses"; //Gmail帳號
-        private string gmail_password = "doihbywfjudbdwsq"; //Gmail密碼
+        private string gmail_password = ""; //Gmail密碼
         private string gmail_mail = "smit12glasses@gmail.com"; //Gmail信箱
 
         #region 寄會員驗證信
